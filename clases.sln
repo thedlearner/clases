@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcular pi circulo", "clases\calcular pi circulo.csproj", "{E15702D3-B02F-4344-86B0-232A1716351E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase mascota", "clase mascota\clase mascota.csproj", "{579815FD-8406-4AB3-AB77-E7BE77C47408}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crear persona", "crear persona\crear persona.csproj", "{85C2711D-DE10-43BA-88EE-FEEDBBE944D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crear clases asignaturas", "crear clases asignaturas\crear clases asignaturas.csproj", "{43ED923B-0C6C-46D0-AD62-694FF76539C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E15702D3-B02F-4344-86B0-232A1716351E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E15702D3-B02F-4344-86B0-232A1716351E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E15702D3-B02F-4344-86B0-232A1716351E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E15702D3-B02F-4344-86B0-232A1716351E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579815FD-8406-4AB3-AB77-E7BE77C47408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579815FD-8406-4AB3-AB77-E7BE77C47408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579815FD-8406-4AB3-AB77-E7BE77C47408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579815FD-8406-4AB3-AB77-E7BE77C47408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85C2711D-DE10-43BA-88EE-FEEDBBE944D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C2711D-DE10-43BA-88EE-FEEDBBE944D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C2711D-DE10-43BA-88EE-FEEDBBE944D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C2711D-DE10-43BA-88EE-FEEDBBE944D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43ED923B-0C6C-46D0-AD62-694FF76539C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43ED923B-0C6C-46D0-AD62-694FF76539C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43ED923B-0C6C-46D0-AD62-694FF76539C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43ED923B-0C6C-46D0-AD62-694FF76539C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A18A305-6970-4D0C-B066-CBEAAEA7ECAA}
+	EndGlobalSection
+EndGlobal
